@@ -1,0 +1,21 @@
+:root {
+    --primary-color: #6C63FF;
+    --secondary-color: #4A44C6;
+    --accent-color: #FF6584;
+    --dark-color: #2D2B55;
+    --light-color: #F7F7FF;
+    --text-color: #333333;
+    --text-light: #777777;
+    --white: #FFFFFF;
+    --gray: #F5F5F5;
+    --dark-gray: #E0E0E0;
+    
+    --heading-font: 'Montserrat', sans-serif;
+    --body-font: 'Open Sans', sans-serif;
+    --section-padding: 5rem 0;
+    --shadow-light: 0 5px 15px rgba(0, 0, 0, 0.05);
+    --shadow-medium: 0 10px 30px rgba(0, 0, 0, 0.1);
+    --shadow-heavy: 0 15px 40px rgba(0, 0, 0, 0.15);
+    --border-radius: 8px;
+    --border-radius-lg: 12px;
+}
