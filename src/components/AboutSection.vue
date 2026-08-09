@@ -11,7 +11,7 @@
         <div class="col-lg-6 mb-4 mb-lg-0">
           <div class="about-image">
             <img 
-              src="https://scontent.fmnl35-1.fna.fbcdn.net/v/t39.30808-6/483526654_24155512354038892_4957505010177271580_n.jpg?stp=dst-jpg_tt6&cstp=mx960x953&ctp=s960x953&_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHrqrkF_XykLble-Ep8lTKtR-_5807YLatH7_nzTtgtq65xIKQtI0c7r61mnFbXBsFMDDLBIKTPcgoUTauEs4OJ&_nc_ohc=OEAVmiw0Se4Q7kNvwHczfyE&_nc_oc=Adpt_oUHvVl71n5M2DiwLfUT4gRJTcjLB2N_eQsvZN7wYzfesFxNBxdPie7HItOB-_8&_nc_zt=23&_nc_ht=scontent.fmnl35-1.fna&_nc_gid=pLGSMUUJIHpCsMizBuIsug&_nc_ss=7b2a8&oh=00_AQDJ3bsmRgIGCSsOBrZsF7kjtU613IBMnbSVC8kQcNydCQ&oe=6A5AA99F" 
+              src="https://scontent.fmnl35-1.fna.fbcdn.net/v/t39.30808-6/483526654_24155512354038892_4957505010177271580_n.jpg?stp=dst-jpg_tt6&cstp=mx960x953&ctp=s960x953&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH44MqUaZUpFD5DwEnD_ddaR-_5807YLatH7_nzTtgtq-zrw-i8_rzocJb3Jwk-HGzeRPjL3-Nb2hrzO4OFS-34&_nc_ohc=xFTYXOx-xJ8Q7kNvwE8wTqA&_nc_oc=Adp-m-Ho8zdhnCq4GVMcixki80RgeOX_Va9illEyIhU7Kjqq3Nk-m9zDCDNdFLhFKmI&_nc_zt=23&_nc_ht=scontent.fmnl35-1.fna&_nc_gid=E1aSyldz2HBOtmIJiN_MOA&_nc_ss=7b2a8&oh=00_AQEOYpryGcFx2BxUFCdijBY9shBquuQKcJnQH9VX6VBt7g&oe=6A7D995F" 
               alt="Manuel Buenviaje II - Professional Headshot" 
               class="img-fluid rounded"
             >
