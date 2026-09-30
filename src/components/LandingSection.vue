@@ -7,7 +7,7 @@
         <div class="col-lg-6 text-center mb-4 mb-lg-0 order-1">
           <div class="profile-image-container">
             <img 
-              src="https://scontent.fmnl35-1.fna.fbcdn.net/v/t1.6435-9/31902046_2194411433908966_5421820797251485696_n.jpg?stp=dst-jpg_tt6&cstp=mx719x728&ctp=s719x728&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEnBI_TaO4CHRtk5A7S0vHzw4ghUExM-HrDiCFQTEz4elHZBRZQNAP9XHvXmmkFWTT9d8A7EChkDgUW_nl5wfpu&_nc_ohc=XtbyiX3KucEQ7kNvwFjhwe1&_nc_oc=AdqiyuiKSBoUOlsjokeJPcZy0aTZtXhywIPcDszLLiylvz8aDNYTX6PO7Cx2i0lGM1U&_nc_zt=23&_nc_ht=scontent.fmnl35-1.fna&_nc_gid=O1sUkScEi6Mx4YsZxCk_9w&_nc_ss=7b2a8&oh=00_AQGbuCdeD6IvxE6A_c-HfqQkGZ78aZD1yJYLAxwlSJbSXQ&oe=6A9F27A5" 
+              src="https://scontent.fmnl35-1.fna.fbcdn.net/v/t1.6435-9/31902046_2194411433908966_5421820797251485696_n.jpg?stp=dst-jpg_tt6&cstp=mx719x728&ctp=s719x728&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGF8YHEl_h4cyh7v8aUNE4cw4ghUExM-HrDiCFQTEz4erxrL6QceXlnatE5aNvJRhS1sdIwZhQg1qJitVy9EG-a&_nc_ohc=UqbGPB8dJbgQ7kNvwFOa6Lg&_nc_oc=AdoBk8XqrpyezzPLny8KMQ7y-GWVk689YjcFKxZEaG-bP8dhtPdmrFnJ-Jv-hJqTSiQ&_nc_zt=23&_nc_ht=scontent.fmnl35-1.fna&_nc_gid=i9QGZw4Bs5jSQN3G1D8QAA&_nc_ss=7b2a8&oh=00_AQMEUwm0zNDxFq7Q-4nnLfbanlZP4hbcdrNuPczlgBCgiQ&oe=6AE3EDE5" 
               alt="Manuel Buenviaje II - Web Developer" 
               class="profile-image"
             >
